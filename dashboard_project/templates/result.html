@@ -1,0 +1,43 @@
+{% extends 'index.html' %} {% block content %}
+<center>
+    <div class="p1">
+        <b>Renewal Auto Insurance Prediction</b>
+    </div>
+    <br>
+    <div class="container">
+
+        <b>Customer Lifetime Value: </b> {{clv}}<br>
+        <b>Income: </b> {{income}}<br>
+        <b>Monthly Premium Auto: </b> {{premi}}<br>
+        <b>Total Claim Amount: </b> {{claim}}<br>
+        <b>Number of Policies: </b>{{num_policy}}<br>
+        <b>Gender: </b>{{Gender}}<br>
+        <b>Education: </b> {{Education}}<br>
+        <b>Employment Status: </b>{{Employment}}<br>
+        <b>Marital Status: </b> {{Marital}}<br>
+        <b>State: </b> {{State}}<br>
+        <b>Location Code: </b> {{Location}}<br>
+        <b>Coverage: </b> {{Coverage}}<br>
+        <b>Vehicle Size: </b> {{Vehicle_Size}}<br>
+        <b>Vehicle Class: </b> {{Vehicle_Class}}<br>
+        <b>Policy: </b> {{Policy}}<br>
+        <b>Sales Channel: </b> {{Channel}}<br>
+        <b>Offer: </b> {{Offer}}<br>
+        <b>Response: </b> {{pred}}<br>
+
+        
+    </div>
+    <hr>
+    <a href="/predict" target="_self">
+        <button style="background-color: rgb(255, 90, 95); color: whitesmoke" class="btn btn-light">
+            Predict Again
+        </button>
+    </a>
+    <a href="/" target="_self">
+        <button style="background-color: rgb(255, 90, 95); color: whitesmoke" class="btn btn-light">
+            Back to Home
+        </button>
+    </a>
+</center>
+
+{% endblock %}
