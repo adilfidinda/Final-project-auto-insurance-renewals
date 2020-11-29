@@ -38,21 +38,27 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
     - Customer dengan level pendidikan tinggi karena lebih cenderung menjadi pengemudi yang bertanggung jawab sehingga akan memiliki claim rate yang rendah
     - Customer di suburban karena memiliki rata - rata clv diatas nilai rata – rata yang berarti potensial bagi revenue perusahaan karena dapat berperan besar dalam aktivitas bisnis perusahaan.
 - **Berikan tipe penawaran yang tepat sasaran kepada customer**
+
   a. Berdasarkan Vehicle Class dan Size
     - Offer 1 : Four-Door Car (Large), Luxury Car (Small), Luxury SUV (Med), SUV (Large, Med, Small), Sport Car (Large)
     - Offer 2 : Four-Door Car (Large, Med, Small), Luxury Car (Med), Luxury SUV (Small), SUV (Large, Small), Sport Car (Med), Two-Door Car (Large, Med, Small)
+    
   b. Berdasarkan Employment Status
     - Offer 1 : Disabled, Medical Leave, Retired, Unemployed
     - Offer 2 : Employed
+    
   c. Berdasarkan Income Group
     - Offer 1 : Low Income
     - Offer 2 : Medium dan High Income
+    
   d. Berdasarkan Coverage
     - Offer 1 : Premium
     - Offer 2 : Basic, Extended
+    
   e. Berdasarkan Premi
     - Offer 1 : Premi 85 - 150 dollar (Premi sedang) dan more than 150 dollar (Premi tinggi)
     - Offer 2 : Premi 0 - 85 (Premi rendah)    
+    
 - **Offer 3 dan 4 dapat dihapuskan dari kebijakan untuk penawaran renewal karena tidak valuable melihat dari respon customer**
 - **Customer yang tidak tertarik renewal, tanyakan alasannya**
   1. Jika karena terkendala biaya, maka bisa ditawarkan untuk menurunkan tipe coverage (dari premium ke basic) atau level policy (personal level 2 ke personal level 1)
