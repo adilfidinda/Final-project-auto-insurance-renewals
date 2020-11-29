@@ -62,4 +62,6 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
   2. Jika perusahaan stand alone : dapat dihubungi secara berkala, customer yang kira kira potensial untuk melakukan pembayaran premi secara lancar misalnya Employed ataupun medium - high income customer
   
 ## Machine Learning
-![alt text](https://github.com/adilfidinda/Final-project-auto-insurance-renewals/evaluation.jpg?raw=true)
+<img src = "evaluation.JPG"/>
+
+FN merupakan jumlah customer yang diprediksi tidak tertarik untuk renewal padahal aktualnya tertarik yang berakibat pada perusahaan kehilangan kesempatan untuk mempertahankan customer. FP merupakan jumlah customer yang diprediksi tertarik padahal aktualnya tidak tertarik yang berakibat pada perusahaan akan mengeluarkan biaya komunikasi lebih banyak. Untuk memenuhi kedua kondisi tersebut, diperlukan nilai FN dan FP yang paling optimal dari semua model sehingga model yang dipilih adalah Random Forest dengan Random Over Sampling.
