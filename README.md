@@ -62,4 +62,4 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
   2. Jika perusahaan stand alone : dapat dihubungi secara berkala, customer yang kira kira potensial untuk melakukan pembayaran premi secara lancar misalnya Employed ataupun medium - high income customer
   
 ## Machine Learning
-
+![alt text](https://github.com/adilfidinda/Final-project-auto-insurance-renewals/evaluation matrix tuned.JPG)
