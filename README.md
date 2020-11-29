@@ -12,7 +12,7 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
 - Mempertahankan customer yang mengambil layanan asuransi mobil agar tetap menjadi nasabah
 - Membangun model untuk memprediksi terkait ketertarikan customer untuk renewal asuransi kendaraan sehingga dapat membantu perusahaan dalam melakukan perencanaan terhadap strategi komunikasi.
 
-# Conclusion
+## Conclusion
 - Hanya ~14% customer yang setuju untuk renewal automobile insurance
 - Lebih banyak customer merespon yes pada basic coverage
     - karena sudah cukup untuk menanggung hal dasar ketika terjadi kecelakaan. Pembayaran premi lebih murah sehingga sesuai dengan kebutuhan mendasar dan budget customer.
@@ -30,7 +30,7 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
 - Customer cenderung tidak tertarik untuk offer 3 dan 4 sehingga offer ini tidak valuable menurut customer
 - Setiap Renew Offer Type memiliki karakteristik customer yang cenderung berbeda
 
-# Recommendation
+## Recommendation
 - **Jika ingin menghubungi customer, prioritaskan dengan karakteristik berikut :**
     - Orang yang sudah menikah dan atau sudah bekerja memiliki peluang lebih tinggi untuk memenuhi tagihan. Selain itu juga memiliki keamanan finansial yang lebih besar daripada single customer atau unemployed customer karena mereka dapat mengumpulkan aset. Ketika sudah menikah terutama tentunya masalah keuangan menjadi hal yang perlu diperhatikan. Maka married customer cenderung ingin mengurangi beban biaya dan menjaga aset mereka salah satunya kendaraan ketika terjadi kasus kecelakaan, kehilangan atau pencurian, kerusakan akibat banjir dan lainnya sehingga tidak mengganggu untuk kebutuhan lainnya. https://cover.com/blog/car-insurance-married-vs-single/#:~:text=To%20insurers%2C%20the%20existence%20of,able%20to%20pool%20their%20assets.
     - Customer dengan basic coverage karena di united state, pada beberapa statenya mewajibkan untuk memiliki asuransi kendaraan minimal penanggungan cedera tubuh dan kerusakan properti sehingga sudah cukup untuk menanggung hal dasar ketika terjadi kecelakaan. Pembayaran premi lebih murah sehingga sesuai dengan kebutuhan mendasar dan budget customer.
@@ -61,5 +61,5 @@ Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun
   1. Jika perusahaan terintegrasi dengan bank : dapat dihubungi kembali setelah ada update biodata misalnya customer yang unemployed sudah mendapatkan pekerjaan sehingga lebih potensial untuk menerima asuransi karena sudah memiliki penghasilan dan tawarkan berdasarkan offer yang sesuai
   2. Jika perusahaan stand alone : dapat dihubungi secara berkala, customer yang kira kira potensial untuk melakukan pembayaran premi secara lancar misalnya Employed ataupun medium - high income customer
   
-# Machine Learning
+## Machine Learning
 
