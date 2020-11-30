@@ -62,11 +62,11 @@ The company wants to offer renewal insurance to customers. However, contacting a
     
 - **Offers 3 and 4 can be removed from the policy for renewal offers because they are not valuable in terms of customer response**
 - **Customers who are not interested in renewal, ask the reason**
-  1. If they have financial problem, it can be offered to reduce the type of coverage (from premium to basic) or level of policy (personal level 2 to personal level 1)
-  2. If the car is not with the customer (sold), you can periodically call back when the customer has bought a new car (especially for high income customers because it will be more possible to buy a car due to financial security)
+    - If they have financial problem, it can be offered to reduce the type of coverage (from premium to basic) or level of policy (personal level 2 to personal level 1)
+    - If the car is not with the customer (sold), you can periodically call back when the customer has bought a new car (especially for high income customers because it will be more possible to buy a car due to financial security)
 - **Customers who are not interested in renewal**
- 1. If the company is integrated with a bank: it can be contacted again after an update of the bio, for example a customer who is unemployed has got a job so that it is more potential to receive insurance because it already has income and offers based on the appropriate offer
-  2. If the company is stand alone: it can be contacted periodically, customers who potential to make premium payments smoothly, for example Employed or medium-high income customers
+    - If the company is integrated with a bank: it can be contacted again after an update of the bio, for example a customer who is unemployed has got a job so that it is more potential to receive insurance because it already has income and offers based on the appropriate offer
+    - If the company is stand alone: it can be contacted periodically, customers who potential to make premium payments smoothly, for example Employed or medium-high income customers
   
 ## Machine Learning
 <img src = "evaluation.png"/>
