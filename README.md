@@ -2,71 +2,72 @@
 ![alt text](https://decoratex.biz/bsn/fr/static/img/a/42515/466437/77586.jpg)
 
 ## Business Background
-Automobile Insurance memberikan perlindungan finansial terhadap kerusakan fisik terhadap kendaraan maupun cedera tubuh (berkenaan dengan biaya medis) akibat tabrakan lalu lintas dan insiden lainnya yang tidak melibatkan tabrakan seperti pencurian, kebakaran, banjir maupun benda jatuh yang mengenai mobil.
+Automobile Insurance provides financial protection against vehicle's physical damage and bodily injury (include medical payment) due to traffic collisions and other incidents such as theft, fire, flood or falling objects on vehicles.
 
 ## Problem
-Perusahaan ingin memberikan penawaran renewal asuransi kepada customernya. Namun menghubungi semua customer tentu menghabiskan cost yang lebih banyak sehingga diperlukan prediksi customer mana yang kira kira akan dihubungi dan setuju untuk melakukan pembaruan asuransi. Disamping itu, mempertahankan customer agar tetap berlangganan asuransi dalam jangka waktu yang lama lebih efektif dibandingkan dengan mencari customer baru.
+The company wants to offer renewal insurance to customers. However, contacting all customers will certainly cost more so it is necessary to predict which customer will be contacted and agree to renew the insurance. In addition, keeping customers subscribed to insurance for a long time is more effective than finding new customers.
 
 ## Goals
-- Mengurangi cost komunikasi
-- Mempertahankan customer yang mengambil layanan asuransi mobil agar tetap menjadi nasabah
-- Membangun model untuk memprediksi terkait ketertarikan customer untuk renewal asuransi kendaraan sehingga dapat membantu perusahaan dalam melakukan perencanaan terhadap strategi komunikasi.
+- Reducing communication costs
+- Retaining customers who take auto insurance services to remain customers
+- Build a model to predict customer interest in renewal of vehicle insurance so it can help companies plan their communication strategies.
 
 ## Conclusion
-- Hanya ~14% customer yang setuju untuk renewal automobile insurance
-- Lebih banyak customer merespon yes pada basic coverage
-    - karena sudah cukup untuk menanggung hal dasar ketika terjadi kecelakaan. Pembayaran premi lebih murah sehingga sesuai dengan kebutuhan mendasar dan budget customer.
-- Lebih dari 50% respon yes berasal dari customer yang memiliki pekerjaan
-    - karena memiliki penghasilan yang dapat digunakan untuk membayar premi. Dan juga ada beberapa pekerjaan yang membutuhkan asuransi mobil misalnya supir yang memiliki resiko lebih tinggi selama mengemudi.
-- Lebih banyak customer dari suburban yang merespon yes
-- Personal auto policy menjadi tipe polis yang paling banyak renewal
-    - berarti policy jenis ini sesuai dengan kebutuhan sebagian besar customer di perusahaan. Sebagain besar customer memiliki mobil pribadi dan bukan mobil yang digunakan untuk bisnis atau customer tidak terdaftar di federal medicaid with hospitalization. Personal policy ini biasanya menjamin pemilik kendaraan dan satu atau dua anggota keluarga dekat.
-- Offer 1 dan offer 2 lebih menarik/valuable bagi customer
-- Customer yang memiliki pekerjaan dan marital status apapun terutama married lebih banyak tertarik untuk renewal
-- Orang yang pendidikan terakhir high school or below memiliki resiko dalam berkendara lebih tinggi sehingga akan lebih banyak melakukan claim. Menurut basis demografis, orang yang berpendidikan tinggi cenderung menjadi pengemudi yang bertanggung jawab. https://www.carinsurance101.com/does-my-education-level-affect-my-car-insurance/
-- Customer Oregon dan Arizona yang merespon yes memiliki clv hampir di rata – rata sehingga kedua state ini potensial bagi revenue perusahaan.
-- Customer low income lebih banyak tertarik untuk renewal ketika ditawari offer 1
-- Customer high income lebih banyak tertarik untuk renewal ketika ditawari offer 2
-- Customer cenderung tidak tertarik untuk offer 3 dan 4 sehingga offer ini tidak valuable menurut customer
-- Setiap Renew Offer Type memiliki karakteristik customer yang cenderung berbeda
+- Only ~ 14% of customers agree to renewal
+- More customers respond yes to basic coverage
+    - it's enough to cover the basics when an accident occurs. It also cheaper then others coverage so it fits the customer's basic needs and budget.
+- More than 50% of yes responses come from customers who have jobs
+    - they have income that can be used to pay premiums. And there are also some jobs that require car insurance, for example drivers who have a higher risk while driving.
+- More customers from suburbs who responded yes
+- Personal auto policy is the most renewal type of policy
+    - means this type of policy is in accordance with the needs of most customers in this company. Most customers own private cars and not cars used for business or customers are not registered with federal medicaid with hospitalization. This personal policy usually guarantees the owner of the vehicle and one or two close family members.
+- Offer 1 and offer 2 are more attractive / valuable for customers
+- Customers who have employment and any marital status, especially married, are more interested in renewals
+- People whose last education are high school or below have a higher risk of driving so they will make more claims. According to the demographic basis, highly educated people tend to be responsible drivers. https://www.carinsurance101.com/does-my-education-level-affect-my-car-insurance/
+- Oregon and Arizona customers who respond to yes have CLV almost on average so that these two states are potential for company revenue.
+- Low income customers are more interested in renewal when an offer is offered 1
+- High income customers are more interested in renewal when an offer is offered 2
+- Customers tend not to be interested in offers 3 and 4 so that these offers are not valuable according to customers
+- Each Renew Offer Type has different customer characteristics
 
 ## Recommendation
-- **Jika ingin menghubungi customer, prioritaskan dengan karakteristik berikut :**
-    - Orang yang sudah menikah dan atau sudah bekerja memiliki peluang lebih tinggi untuk memenuhi tagihan. Selain itu juga memiliki keamanan finansial yang lebih besar daripada single customer atau unemployed customer karena mereka dapat mengumpulkan aset. Ketika sudah menikah terutama tentunya masalah keuangan menjadi hal yang perlu diperhatikan. Maka married customer cenderung ingin mengurangi beban biaya dan menjaga aset mereka salah satunya kendaraan ketika terjadi kasus kecelakaan, kehilangan atau pencurian, kerusakan akibat banjir dan lainnya sehingga tidak mengganggu untuk kebutuhan lainnya. https://cover.com/blog/car-insurance-married-vs-single/#:~:text=To%20insurers%2C%20the%20existence%20of,able%20to%20pool%20their%20assets.
-    - Customer dengan basic coverage karena di united state, pada beberapa statenya mewajibkan untuk memiliki asuransi kendaraan minimal penanggungan cedera tubuh dan kerusakan properti sehingga sudah cukup untuk menanggung hal dasar ketika terjadi kecelakaan. Pembayaran premi lebih murah sehingga sesuai dengan kebutuhan mendasar dan budget customer.
-    - Personal Auto Policy yang mana policy jenis ini sesuai dengan kebutuhan sebagian besar customer di perusahaan. Sebagain besar customer memiliki mobil pribadi dan bukan mobil yang digunakan untuk bisnis atau customer tidak terdaftar di federal medicaid with hospitalization. Personal policy ini biasanya menjamin pemilik kendaraan dan satu atau dua anggota keluarga dekat.
-    - Customer dengan level pendidikan tinggi karena lebih cenderung menjadi pengemudi yang bertanggung jawab sehingga akan memiliki claim rate yang rendah
-    - Customer di suburban karena memiliki rata - rata clv diatas nilai rata – rata yang berarti potensial bagi revenue perusahaan karena dapat berperan besar dalam aktivitas bisnis perusahaan.
-- **Berikan tipe penawaran yang tepat sasaran kepada customer**
+- **If you want to contact a customer, prioritize the following characteristics:**
+    - People who are married and / or already working have a higher chance of meeting bills. They also have greater financial security than single customers or unemployed customers because they can accumulate assets. When you are married, of course, financial problems need to be considered. So, married customers tend to want to reduce the cost burden and protect their assets, one of which is their vehicle in the event of an accident, loss or theft, flood damage and others so that they do not interfere with other needs. https://cover.com/blog/car-insurance-married-vs-single/#:~:text=To%20insurers%2C%20the%20existence%20of,able%20to%20pool%20their%20assets.
+    - Customers with basic coverage because in the United States, in some states, it is mandatory to have vehicle insurance at least for body injury and property damage so that it is sufficient to cover the basics when an accident occurs. Premium payment is cheaper so that it fits the customer's basic needs and budget.
+    - Personal Auto Policy, which is this type of policy according to the needs of most customers in the company. Most customers own private cars and not cars used for business or customers are not registered with federal medicaid with hospitalization. This personal policy usually guarantees the owner of the vehicle and one or two close family members.
+    - Customers with a higher education level are more likely to be responsible drivers so they will have a lower claim rate
+    - Customers in suburbs because they have an average CLV above the average value which means the potential for company revenue because it can play a big role in the company's business activities.
+    
+- **Provide targeted types of offers to customers**
 
-  a. Berdasarkan Vehicle Class dan Size
+  a. Based on Vehicle Class and Size
     - Offer 1 : Four-Door Car (Large), Luxury Car (Small), Luxury SUV (Med), SUV (Large, Med, Small), Sport Car (Large)
     - Offer 2 : Four-Door Car (Large, Med, Small), Luxury Car (Med), Luxury SUV (Small), SUV (Large, Small), Sport Car (Med), Two-Door Car (Large, Med, Small)
     
-  b. Berdasarkan Employment Status
+  b. Based on Employment Status
     - Offer 1 : Disabled, Medical Leave, Retired, Unemployed
     - Offer 2 : Employed
     
-  c. Berdasarkan Income Group
+  c. Based in Income Group
     - Offer 1 : Low Income
     - Offer 2 : Medium dan High Income
     
-  d. Berdasarkan Coverage
+  d. Based on Coverage
     - Offer 1 : Premium
     - Offer 2 : Basic, Extended
     
-  e. Berdasarkan Premi
-    - Offer 1 : Premi 85 - 150 dollar (Premi sedang) dan more than 150 dollar (Premi tinggi)
-    - Offer 2 : Premi 0 - 85 (Premi rendah)    
+  e. Based on premium
+    - Offer 1 : Premi 85 - 150 dollar (Medium Premium) dan more than 150 dollar (High Premium)
+    - Offer 2 : Premi 0 - 85 (Low Premium)    
     
-- **Offer 3 dan 4 dapat dihapuskan dari kebijakan untuk penawaran renewal karena tidak valuable melihat dari respon customer**
-- **Customer yang tidak tertarik renewal, tanyakan alasannya**
-  1. Jika karena terkendala biaya, maka bisa ditawarkan untuk menurunkan tipe coverage (dari premium ke basic) atau level policy (personal level 2 ke personal level 1)
-  2. Jika karena mobil sudah tidak bersama yang bersangkutan (dijual) dapat menghubungi kembali secara berkala ketika customer sudah membeli mobil baru (dikhususkan untuk customer high income karena akan lebih memungkinkan untuk membeli mobil karena keamanan finansial)
-- **Customer yang tidak tertarik untuk renewal**
-  1. Jika perusahaan terintegrasi dengan bank : dapat dihubungi kembali setelah ada update biodata misalnya customer yang unemployed sudah mendapatkan pekerjaan sehingga lebih potensial untuk menerima asuransi karena sudah memiliki penghasilan dan tawarkan berdasarkan offer yang sesuai
-  2. Jika perusahaan stand alone : dapat dihubungi secara berkala, customer yang kira kira potensial untuk melakukan pembayaran premi secara lancar misalnya Employed ataupun medium - high income customer
+- **Offers 3 and 4 can be removed from the policy for renewal offers because they are not valuable in terms of customer response**
+- **Customers who are not interested in renewal, ask the reason**
+  1. If they have financial problem, it can be offered to reduce the type of coverage (from premium to basic) or level of policy (personal level 2 to personal level 1)
+  2. If the car is not with the customer (sold), you can periodically call back when the customer has bought a new car (especially for high income customers because it will be more possible to buy a car due to financial security)
+- **Customers who are not interested in renewal**
+ 1. If the company is integrated with a bank: it can be contacted again after an update of the bio, for example a customer who is unemployed has got a job so that it is more potential to receive insurance because it already has income and offers based on the appropriate offer
+  2. If the company is stand alone: it can be contacted periodically, customers who potential to make premium payments smoothly, for example Employed or medium-high income customers
   
 ## Machine Learning
 <img src = "evaluation.png"/>
-FN merupakan jumlah customer yang diprediksi tidak tertarik untuk renewal padahal aktualnya tertarik yang berakibat pada perusahaan kehilangan kesempatan untuk mempertahankan customer. FP merupakan jumlah customer yang diprediksi tertarik padahal aktualnya tidak tertarik yang berakibat pada perusahaan akan mengeluarkan biaya komunikasi lebih banyak. Untuk mengoptimalkan kedua kondisi tersebut, diperlukan nilai FN dan FP yang paling optimal dari semua model sehingga model yang dipilih adalah Random Forest dengan Random Over Sampling.
+FN is the number of customers who are predicted not to be interested in renewal, even though they are actually interested, which can lead company to losing the opportunity to retain customers. FP is the number of customers who are predicted to be interested even though they are not actually interested which results in the company spending more communication costs. To optimize these two conditions, the most optimal FN and FP values of all models are needed so that the selected model is Random Forest with Random Over Sampling.
