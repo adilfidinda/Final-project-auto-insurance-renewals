@@ -69,5 +69,5 @@ The company wants to offer renewal insurance to customers. However, contacting a
     - If the company is stand alone: it can be contacted periodically, customers who potential to make premium payments smoothly, for example Employed or medium-high income customers
   
 ## Machine Learning
-<img src = "evaluation.png"/>
-FN is the number of customers who are predicted not to be interested in renewal, even though they are actually interested, which can lead company to losing the opportunity to retain customers. FP is the number of customers who are predicted to be interested even though they are not actually interested which results in the company spending more communication costs. To optimize these two conditions, the most optimal FN and FP values of all models are needed so that the selected model is Random Forest with Random Over Sampling.
+<img src = "evaluation.JPG"/>
+FN is the number of customers who are predicted not to be interested in renewal, even though they are actually interested, which can lead company to losing the opportunity to retain customers. FP is the number of customers who are predicted to be interested even though they are not actually interested which results in the company spending more communication costs. To optimize these two conditions, the most optimal FN and FP values of all models are needed so that the selected model is Support Vector Regression with Smote.
